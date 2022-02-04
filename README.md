@@ -1,2 +1,2 @@
 # Python-Adventure-Game
-This is an adventure game created in Python that calls for user input. 
+A python adventure game that calls for user input. There are several different scenarios including winning and game over, depending on what the user inputs while playing the game.  
